@@ -1,4 +1,4 @@
-package poo;
+package other;
 
 import java.time.LocalDate;
 
